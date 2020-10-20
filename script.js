@@ -6,7 +6,7 @@ var butt = document.getElementById("butt");
 
 
 butt.addEventListener("click", function() {
-    alert("all the girls!");
+    alert("this is it");
 })
 
 color1.addEventListener("input", function() {
