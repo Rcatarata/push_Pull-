@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background: linear-gradient(to bottom, rgb(39, 130, 158), rgb(13, 223, 188));
+}
+.h1fire{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    margin-top: 20px;
+    color: rgb(66, 65, 65);
+
+}
+h2{
+    text-align: center;
+    color: rgb(66, 65, 65);
+}
+#color{
+    text-align: center;
+}
