@@ -1,0 +1,19 @@
+{
+  "name": "push_pull-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rcatarata/push_Pull-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rcatarata/push_Pull-/issues"
+  },
+  "homepage": "https://github.com/Rcatarata/push_Pull-#readme"
+}
